@@ -1,4 +1,4 @@
-🦙 Ollama LLaMA3 Chatbot
+# 🦙 Ollama LLaMA3 Chatbot
 
 This is a simple Python chatbot interface that streams responses using the ollama library with the LLaMA3 model.
 
