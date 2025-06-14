@@ -26,7 +26,7 @@ cd ollama-chatbot
 
 python -m venv venv
 venv\Scripts\activate   # On Windows
-# source venv/bin/activate  # On Mac/Linux
+source venv/bin/activate  # On Mac/Linux
 
 3. Install dependencies
 
@@ -46,14 +46,12 @@ python run.py
 
 Enter your prompts in the terminal and see LLaMA3 respond in real-time.
 
-
-
 📂 Project Structure
 
 ollama-chatbot/
-├── run.py          # Main script to run the chatbot
-├── README.md       # You are here
-└── venv/           # Virtual environment (optional)
+├── run.py         
+├── README.md      
+└── venv/          
 
 🧠 Example
 
